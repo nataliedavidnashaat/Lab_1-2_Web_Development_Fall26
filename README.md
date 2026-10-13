@@ -1,2 +1,3 @@
-# Web_Development_LabTasks_CSE343_Fall26
-Web developments course semester fall 2026 for lab tasks
+# Lab_1and2_Web_Development_Fall26
+Intro to Git & HTML & CSS
+Portfolio task with html & css
